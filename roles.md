@@ -5,3 +5,5 @@
 - SUbgerente
 - Lider
 - Funcional
+- Asistente
+- Certificador
